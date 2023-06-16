@@ -8,8 +8,14 @@ Penggalan kata atau huruf atau simbol yang dapat diperiksa :
 if, else, true, false, x, y, : , >=, <=, =
 
 Grammar yang diterima : 
- If <kondisi> :
-  <aksi>
+ If kondisi :
+  aksi
 else :
-  <aksi>
+  aksi
+  
+KONDISI : "VARIABLE" "OPERATOR" "VARIABLE" | "TRUE" | "FALSE"
+AKSI : "VARIABLE" = "VARIABLE"
+OPERATOR : <= | >=
+VARIABLE : x | y
+
     
