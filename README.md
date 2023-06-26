@@ -1,9 +1,4 @@
-# Kelompok 2 - Tugas Besar Teori Bahasa Automata
-##
-**M. ALIF GIBRAN A BOSSA - 1301213125\
-RESKY ADHYAKSA         - 1301202259\
-TIO ADJI HIDAYAT       – 1301213084**
-##
+# Lexical Analyzer and Parser
 
 
 Penggalan kata atau huruf atau simbol yang dapat diperiksa[^1] :\
